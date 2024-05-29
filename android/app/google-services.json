@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638558035939",
+    "project_id": "baykot-c9e64",
+    "storage_bucket": "baykot-c9e64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638558035939:android:b9ad43142a625c0a708ad6",
+        "android_client_info": {
+          "package_name": "com.example.baykot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBniMns8oj6atoU8iRGbXyAcAEnpKMuemI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
